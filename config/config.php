@@ -4,7 +4,7 @@
 # Ruta absoluta
 
 
-define('URL', 'http://localhost/dwes/Proyecto/02/mvc-proyect/');
+define('URL', 'https://musical-genie-86e34c.netlify.app/');
 
 # Constante de la Base de Datos
 define('HOST', 'localhost');
